@@ -1,2 +1,5 @@
 # hello-world
-hello-world tutorial repo.
+
+Greetings, humans. I'm Eric. 
+
+I live in Vermont, and I like pickles. The picklier, the better.
